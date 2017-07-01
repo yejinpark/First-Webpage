@@ -1,0 +1,60 @@
+@import url("https://fonts.google.com/specimen/Roboto?selection.family=Roboto");
+
+p{
+  font-family: "Roboto";
+}
+
+
+body{
+  background-color: #00CED1;
+  background-image: url("http://images.newindianexpress.com/uploads/user/ckeditor_images/article/2017/1/7/tt.jpg");
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+  background-position: center;
+
+}
+
+.capitals{
+  background-color: black;
+  color: white;
+  margin: 20px 0 20px 0;
+  padding: 20px;
+}
+
+
+h1{
+  margin-left: 40px;
+  color: cyan;
+
+
+}
+
+p {
+  margin: 0 auto;
+}
+
+.classname{
+  property: value
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+  padding: 15px;
+}
+
+th{
+  text-align: center;
+}
+
+
+table#t01 th {
+  color: white;
+  background-color: black;
+}
+
+
+}
